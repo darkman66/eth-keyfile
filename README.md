@@ -1,5 +1,7 @@
 # Ethereum Keyfile
 
+Info: This version works with [pycryptodome](https://pypi.org/project/pycryptodome/)
+
 A library for handling the encrypted keyfiles used to store ethereum private keys
 
 
